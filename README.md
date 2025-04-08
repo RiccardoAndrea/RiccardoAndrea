@@ -20,8 +20,7 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
   - OpenMP per calcolo parallelo in C
 - ✅ **Interfacce & UX**
   - Dashboard, giochi educativi, e-commerce, app desktop
-- ✅ **Fondamenti teorici**
-  - Sistemi operativi, strutture dati, algoritmi
+
 
 ---
 
