@@ -24,10 +24,9 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 
 ---
 
-## 🛠 Tecnologie preferite
+## 🛠 Tecnologie 
 
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
-![Kotlin](https://img.shields.io/badge/Kotlin-blueviolet?style=flat-square&logo=kotlin)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs)
