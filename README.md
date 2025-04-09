@@ -25,7 +25,8 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 ---
 
 ## 🛠 Tecnologie 
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=swift)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python)
