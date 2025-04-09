@@ -35,6 +35,11 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 ![OpenMP](https://img.shields.io/badge/OpenMP-lightgrey?style=flat-square)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode)
+![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-black?style=flat-square&logo=intellijidea)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio)
+![NaoQI SDK](https://img.shields.io/badge/NaoQI-FF6F00?style=flat-square)
+![Pepper SDK](https://img.shields.io/badge/Pepper%20SDK-FF6F00?style=flat-square)
 
 ---
 
