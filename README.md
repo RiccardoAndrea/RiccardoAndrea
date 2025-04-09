@@ -44,5 +44,5 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 
 ---
 
-> “Scrivo codice che funziona. Poi capisco perché funziona sempre dopo un caffè☕
+> “Scrivo codice che funziona. Poi capisco perché funziona dopo un caffè☕
 
