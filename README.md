@@ -1,4 +1,4 @@
-# 👋 Ciao, sono Riccardo!
+# 👋 Ciao, sono Riccardo!, per alcuni Noland
 
 Sono uno sviluppatore software con una mente curiosa e una passione autentica per l'informatica. Mi definisco un **full-stack developer** versatile, in grado di lavorare su progetti **iOS, Android, desktop e web**. Amo imparare, costruire cose funzionali e affrontare nuove sfide.
 
