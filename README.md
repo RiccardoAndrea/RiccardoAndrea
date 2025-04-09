@@ -8,7 +8,7 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 
 - ✅ **Full Stack Development**
   - Frontend: HTML, CSS, JavaScript, SwiftUI
-  - Backend: Node.js, Flask, Java, C
+  - Backend: Node.js, Flask, Java.
 - ✅ **Sviluppo Mobile**
   - Android (Java/Kotlin), iOS (Swift + SpriteKit)
 - ✅ **Robotica & Interazione**
