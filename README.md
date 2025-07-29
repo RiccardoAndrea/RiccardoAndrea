@@ -12,7 +12,7 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 - ✅ **Sviluppo Mobile**
   - Android (Java/Kotlin), iOS (Swift + SpriteKit)
 - ✅ **Robotica & Interazione**
-  - Sviluppo su **Pepper** con SDKQI
+  - Sviluppo su **Pepper** con qiSDK
 - ✅ **Database Design**
   - Relazionali (Oracle SQL, PL/SQL)
   - Non relazionali (File System custom)
