@@ -61,7 +61,7 @@ riccardoandreaspinosa@gmail.com
 
 
 ## Progetti principali
-Per mockup, dettagli dell’interfaccia e demo video, consultare documentazione PDF e viadeo allegata.
+Per dettagli dell’interfaccia, progettazione e demo video, consultare documentazione PDF e video allegata.
 ### [Pepper Autism Test App](https://github.com/RiccardoAndrea/Pepper_Autism_Test_App)
 
 
