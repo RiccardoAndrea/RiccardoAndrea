@@ -23,6 +23,49 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 
 
 ---
+# Ciao, sono Riccardo Spinosa
+
+Sviluppatore software versatile, appassionato di tecnologie full-stack, robotica e applicazioni mobile. Amo creare progetti concreti e sperimentare nuove soluzioni.
+
+Sul mio GitHub puoi trovare una selezione dei miei progetti, con documentazione e demo video inclusi nei repository.
+
+## Progetti principali
+
+### [Pepper Autism Test App](https://github.com/RiccardoAndrea/Pepper_Autism_Test_App)
+Applicazione Android integrata con il robot Pepper per supportare test cognitivi destinati a bambini con autismo.  
+**Tecnologie:** Java, Kotlin, Android Studio, Pepper SDK
+
+### [SimpleSell](https://github.com/RiccardoAndrea/SimpleSell)
+App iOS in Swift per la gestione delle vendite.  
+**Tecnologie:** Swift
+
+### [Gestione Forniture ASL](https://github.com/RiccardoAndrea/gestione_forniture_asl)
+Applicazione desktop per la gestione di bollette e mandati delle strutture sanitarie.  
+**Tecnologie:** Java, Oracle PL/SQL, IntelliJ
+
+### [Rubrica Telefonica](https://github.com/RiccardoAndrea/Rubrica_telefonica)
+Applicazione in C per la gestione di contatti telefonici.  
+**Tecnologie:** C
+
+### [Calcolo Numerico](https://github.com/RiccardoAndrea/calcolo_numerico)
+Analisi dati e rappresentazione grafica tramite Matlab.  
+**Tecnologie:** MATLAB
+
+### [Souze PixArt](https://github.com/RiccardoAndrea/souze_pixart)
+Pagina web per una cartoleria.  
+**Tecnologie:** Python, HTML, CSS, JavaScript
+
+### [Green Pass](https://github.com/RiccardoAndrea/green_pass)
+Progetto in C che simula un sistema distribuito per la gestione del greenpass.  
+**Tecnologie:** C
+
+### [Open Minds](https://github.com/RiccardoAndrea/open_minds)
+Mini-gioco educativo per sensibilizzare i giovani contro il fumo e le droghe.  
+**Tecnologie:** Swift
+
+
+### [Pass Hack Check](https://github.com/RiccardoAndrea/Pass_Hack_Check)
+Progetto di sicurezza informatica per testare password.
 
 ## 🛠 Tecnologie 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -45,7 +88,7 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 ---
 
 ## 📫 Contatti
-
+riccardoandreaspinosa@gmail.com
 
 
 ---
