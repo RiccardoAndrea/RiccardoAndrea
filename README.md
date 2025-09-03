@@ -23,11 +23,7 @@ Sono uno sviluppatore software con una mente curiosa e una passione autentica pe
 
 
 ---
-# Ciao, sono Riccardo Spinosa
 
-Sviluppatore software versatile, appassionato di tecnologie full-stack, robotica e applicazioni mobile. Amo creare progetti concreti e sperimentare nuove soluzioni.
-
-Sul mio GitHub puoi trovare una selezione dei miei progetti, con documentazione e demo video inclusi nei repository.
 
 ## Progetti principali
 
