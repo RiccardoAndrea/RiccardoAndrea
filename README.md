@@ -56,6 +56,10 @@ riccardoandreaspinosa@gmail.com
 
 > "Prima penso come risolvere 💡, poi lo trasformo nel linguaggio scelto 💻. Ecco il segreto della versatilità! 🔧⚡"
 
+
+
+## 🛠 Tecnologie 
+
 ## Progetti principali
 
 ### [Pepper Autism Test App](https://github.com/RiccardoAndrea/Pepper_Autism_Test_App)
@@ -83,6 +87,3 @@ riccardoandreaspinosa@gmail.com
 
 
 ### [Pass Hack Check](https://github.com/RiccardoAndrea/Pass_Hack_Check)
-
-
-## 🛠 Tecnologie 
